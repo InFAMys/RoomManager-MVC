@@ -1,0 +1,17 @@
+.currSign:before {
+  content: "Rp ";
+}
+
+.m-font {
+  font-family: "Montserrat", sans-serif;
+}
+
+.r-font {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+.r-font-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+}
